@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Swift, SwiftUI, UIKit, GIT, etc...**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tetrizz](https://github.com/Tetrizz)
+- 👨‍💻 All of my projects are available at [https://github.com/skxnz](https://github.com/skxnz)
 
 - 📫 How to reach me **alexballa.help@gmail.com**
 

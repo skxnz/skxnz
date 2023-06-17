@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexandre Balla</h1>
 <h3 align="center">I am fourteen y.o. and I am junior IOS-developer!</h3>
 
-- 🔭 I’m currently working on **Telephone directory**
+- 🔭 I’m currently working on **facebookClone [education purpose only]**
 
-- 🌱 I’m currently learning **Swift, SwiftUI, UIKit, GIT, etc...**
+- 🌱 I’m currently learning **Swift, UIKit, GIT, Firebase, etc...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/skxnz](https://github.com/skxnz)
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ballacoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ballacoder" height="30" width="40" /></a>
+<a href="https://twitter.com/alexballa_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ballacoder" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

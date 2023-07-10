@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alexandre Balla</h1>
 <h3 align="center">I am fourteen y.o. and I am junior IOS-developer!</h3>
 
-- 🔭 I’m currently working on **[https:github.com/skxnz/Taxi-App](Taxi App)**
+- 🔭 I’m currently working on **<a href="https:github.com/skxnz/Taxi-App">(Taxi App)</a>**
 
 - 🌱 I’m currently learning **Swift, UIKit, GIT, Firebase, etc...**
 
-- 👨‍💻 All of my projects are available at [https://github.com/skxnz](my github)
+- 👨‍💻 All of my projects are available at **<a href="https://github.com/skxnz"> my github </a>**
 
 - 📫 How to reach me **ialexballa@gmail.com**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexander Balla</h1>
-<h2 align="center"><b>Absolute</b>, junior iOS-developer!</h3>
+<h2 align="center">Absolute-junior iOS-developer!</h3>
 
 - 🔭 I’m currently working on **<a href="https://github.com/skxnz/Taxi-App">Taxi App</a>**
 

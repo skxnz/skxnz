@@ -9,7 +9,7 @@
 
 - 📫 How to reach me, my working email: **ialexballa@gmail.com**
 
-- ⚡ Fun facts: **I am from Kyiv and currently live in France, I am good at swimming and in math. Open for chating and co-working propositions**
+- ⚡ Fun facts: **I am from Kyiv and currently live in France, I am good at swimming and in math. Open for chatting and co-working propositions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

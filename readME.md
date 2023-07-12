@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at **<a href="https://github.com/skxnz"> my github </a>**
 
-- 📫 How to reach me **ialexballa@gmail.com**
+- 📫 How to reach me, my working email: **ialexballa@gmail.com**
 
-- ⚡ Fun facts **I am from Kyiv and currently live in France, I am good at swimming and in math. Open for chating and co-working propositions**
+- ⚡ Fun facts: **I am from Kyiv and currently live in France, I am good at swimming and in math. Open for chating and co-working propositions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

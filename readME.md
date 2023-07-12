@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ialexballa@gmail.com**
 
-- ⚡ Fun fact **From Kyiv, Ukraine, 14 y.o., karate, swimming, learning french/english, open for chating!**
+- ⚡ Fun facts **From Kyiv, Ukraine, 14 y.o., karate, swimming, learning french/english, open for chating!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

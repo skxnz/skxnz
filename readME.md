@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **<a href="https://github.com/skxnz/Taxi-App">Taxi App</a>**
 
-- 🌱 I’m currently learning **Swift, UIKit, GIT, Firebase, etc...**
+- 🌱 I’m currently learning **Swift, UIKit, MapKit, ARKit, Firebase, Firestore, etc...**
 
 - 👨‍💻 All of my projects are available at **<a href="https://github.com/skxnz"> my github </a>**
 

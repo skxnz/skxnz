@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Swift, UIKit, MapKit, ARKit, Firebase, Firestore, etc...**
 
-- 👨‍💻 All of my projects are available at **<a href="https://github.com/skxnz"> my github </a>**
+- 👨‍💻 All of my projects are available at **<a href="https://github.com/skxnz?tab=repositories"> my github </a>**
 
 - 📫 How to reach me, my working email: **ialexballa@gmail.com**
 
